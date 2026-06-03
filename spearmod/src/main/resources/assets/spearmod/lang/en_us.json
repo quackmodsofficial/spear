@@ -1,0 +1,18 @@
+{
+  "item.spearmod.wooden_spear": "Wooden Spear",
+  "item.spearmod.stone_spear": "Stone Spear",
+  "item.spearmod.copper_spear": "Copper Spear",
+  "item.spearmod.iron_spear": "Iron Spear",
+  "item.spearmod.golden_spear": "Golden Spear",
+  "item.spearmod.diamond_spear": "Diamond Spear",
+  "item.spearmod.netherite_spear": "Netherite Spear",
+
+  "item.spearmod.spear.tooltip.jab": "Left-click: Jab (4.5 block reach, pierce)",
+  "item.spearmod.spear.tooltip.charge": "Right-click: Charge stance (velocity-scaled damage)",
+  "item.spearmod.spear.tooltip.reach": "Min range: 2 blocks",
+
+  "enchantment.spearmod.lunge": "Lunge",
+  "enchantment.spearmod.lunge.desc": "Propels you forward when jabbing. Costs hunger.",
+
+  "itemGroup.spearmod.spears": "Spears"
+}

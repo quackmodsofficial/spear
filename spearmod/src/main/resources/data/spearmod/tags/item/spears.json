@@ -1,0 +1,11 @@
+{
+  "values": [
+    "spearmod:wooden_spear",
+    "spearmod:stone_spear",
+    "spearmod:copper_spear",
+    "spearmod:iron_spear",
+    "spearmod:golden_spear",
+    "spearmod:diamond_spear",
+    "spearmod:netherite_spear"
+  ]
+}

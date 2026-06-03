@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "spearmod",
+  "version": "${version}",
+  "name": "Spear Mod",
+  "description": "Backports the 1.21.11 Spear weapon (all tiers, jab, charge, Lunge enchantment) to Fabric 1.21.1",
+  "authors": ["SpearMod"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.spearmod.SpearMod"],
+    "client": ["com.spearmod.client.SpearModClient"]
+  },
+  "mixins": [
+    "spearmod.mixins.json",
+    {
+      "config": "spearmod.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1"
+  }
+}

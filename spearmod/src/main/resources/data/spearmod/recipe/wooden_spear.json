@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" M", " S", "S "],
+  "key": {
+    "M": { "tag": "minecraft:planks" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "id": "spearmod:wooden_spear", "count": 1 }
+}
